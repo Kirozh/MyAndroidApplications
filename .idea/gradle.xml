@@ -13,6 +13,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/massacalculator" />
             <option value="$PROJECT_DIR$/myfirstapplication" />
             <option value="$PROJECT_DIR$/mysecondapplication" />
             <option value="$PROJECT_DIR$/mythirdapplication" />

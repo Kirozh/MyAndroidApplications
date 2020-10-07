@@ -1,3 +1,4 @@
+include ':massacalculator'
 include ':secondtimer'
 include ':mythirdapplication'
 include ':mysecondapplication'

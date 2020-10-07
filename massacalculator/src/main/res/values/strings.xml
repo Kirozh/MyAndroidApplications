@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MassaCalculator</string>
+    <string name="stringMale">М</string>
+    <string name="stringFemale">Ж</string>
+    <string name="stringWeight">Введите вес в кг</string>
+    <string name="stringHeight">Введите рост в см</string>
+    <string name="stringCalculate">Рассчитать</string>
+</resources>
