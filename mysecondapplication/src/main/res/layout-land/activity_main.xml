@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"    >
+
+    <EditText
+        android:id="@+id/etLogin"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="Адрес электронной почты"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:gravity="center"
+        />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="Пароль"
+        android:gravity="center"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        />
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id = "@+id/enterBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:text = "Войти"
+            android:layout_weight = "1"/>
+
+        <Button
+            android:id = "@+id/regBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight = "1"
+            android:text = "Зарегистрироваться"/>
+
+    </LinearLayout>>
+
+</LinearLayout>

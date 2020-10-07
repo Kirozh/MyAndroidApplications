@@ -1,0 +1,6 @@
+include ':secondtimer'
+include ':mythirdapplication'
+include ':mysecondapplication'
+include ':myfirstapplication'
+include ':app'
+rootProject.name = "MyАшкыеApplication"
